@@ -1,7 +1,13 @@
-Esta es la historia de TonyH
+Esta es la historia de la vida y obra maestra de TonyH
 
 Tony Hernandez tiene 34 años y nacio en Tabasco, Mexico.
 
 Pronto cumpliré 35 años.
 
+<<<<<<< HEAD
+Hace falta agregar más datos de procedencia
+
+agrego esta linea para probar   VIM
+=======
 A partir de mañana nos enfocaremos en la vida laboral
+>>>>>>> cabecera
